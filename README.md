@@ -15,9 +15,12 @@ mvn clean javafx:run
 ## 3. Resources
 - [Getting Started with JavaFX](https://openjfx.io/openjfx-docs/#introduction)
   - I recommend looking at the section called *JavaFX and IntelliJ IDEA* if you are using IntelliJ IDEA.
-- [JavaFX API Docs](https://openjfx.io/javadoc/20/)
+- [JavaFX API Documentation](https://openjfx.io/javadoc/20/)
 
-### 3.1 JavaFX API Docs
-- [javafx.base](https://openjfx.io/javadoc/20/javafx.base/module-summary.html)
-- [javafx.controls](https://openjfx.io/javadoc/20/javafx.controls/module-summary.html)
-- [javafx.fxml](https://openjfx.io/javadoc/20/javafx.fxml/module-summary.html)
+### 3.1 JavaFX API Modules Documentation
+- **javafx.base**: Defines the base APIs for the JavaFX UI toolkit, including APIs for bindings, properties, collections, and events.
+  - [javafx.base module](https://openjfx.io/javadoc/20/javafx.base/module-summary.html)
+- **javafx.controls**: Defines the UI controls, charts, and skins that are available for the JavaFX UI toolkit.
+  - [javafx.controls module](https://openjfx.io/javadoc/20/javafx.controls/module-summary.html)
+- **javafx.fxml**: Defines the FXML APIs for the JavaFX UI toolkit.
+  - [javafx.fxml](https://openjfx.io/javadoc/20/javafx.fxml/module-summary.html)
