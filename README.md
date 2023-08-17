@@ -1,7 +1,7 @@
 # LearnJavaFX
 
 ## 1. Dependencies
-Install these dependencies on Ubuntu
+Install these dependencies on Ubuntu/Debian
 ```
 sudo apt install maven openjdk-17-jdk openjdk-17-jre
 ```
