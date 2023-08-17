@@ -14,7 +14,7 @@ mvn clean javafx:run
 
 ## 3. Resources
 - [Getting Started with JavaFX](https://openjfx.io/openjfx-docs/#introduction)
-  - I recommend looking at the section called *JavaFX and IntelliJ IDEA* if you are using IntelliJ IDEA.
+  - I recommend looking at the section called ***JavaFX and IntelliJ IDEA*** if you are using IntelliJ IDEA.
 - [JavaFX API Documentation](https://openjfx.io/javadoc/20/)
 
 ### 3.1 JavaFX API Modules Documentation
